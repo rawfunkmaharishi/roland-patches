@@ -1,17 +1,16 @@
-Song, Patch, Variation 
-Monk, percussion, shaker 
-Tree Deliveries, claps, 
-Turn Up, cymbals, hi-hat 
-Got It, cymbals, hi-hat 
-Fade Zero, sound effects, boom
-The Cone Mill, minimal claps, finger snaps
-Bueno, snare, noisy snare
-Boot, rim shot,
-Ted, TR claps, 909 claps
-Hi-Waist, cymbals, hi-hat
-Route, TR claps, 808 claps
-The Oak Key, TR claps, 808 claps
-Live Soldering, claps, 
-Flux, cowbell
-Ceramic Dragon, percussion, shaker 
-
+Song, Patch, Variant, Name, Sub-name
+Monk, 9, v, percussion, shaker
+Tree Deliveries, 1, p, claps,
+Turn Up, 10, p, cymbals, hi-hat
+Got It, 10, p, cymbals, hi-hat
+Fade Zero, 11, p, sound effects, boom
+The Cone Mill, 2, v, minimal claps, finger snaps
+Bueno, 5, v, proc snare, noisy snare
+Boot, 8, v, rim shot, ?
+Ted, 3, m, TR claps, 909 claps
+Hi-Waist, 10, p, cymbals, hi-hat
+Route, 10, p, TR claps, 808 claps
+The Oak Key, 3, v, TR claps, 808 claps
+Live Soldering, 3, v, TR claps, 808 claps
+Flux, 12, m, custom, cowbell
+Ceramic Dragon, 9, v, percussion, shaker
